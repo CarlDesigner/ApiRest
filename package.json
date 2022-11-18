@@ -1,0 +1,23 @@
+{
+  "name": "backend.aplication.react.2",
+  "version": "0.9.0",
+  "description": "Backend.Aplication.React.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlDesigner/Backend.Aplication.React.2.git"
+  },
+  "author": "carlDesigner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlDesigner/Backend.Aplication.React.2/issues"
+  },
+  "homepage": "https://github.com/CarlDesigner/Backend.Aplication.React.2#readme",
+  "dependencies": {
+    "espress": "^0.0.0",
+    "express": "^4.18.2"
+  }
+}
